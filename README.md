@@ -45,7 +45,7 @@ Solutions and patterns implemented in C++.
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thoucodes&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thou2578&show_icons=true)
 
 ---
 
