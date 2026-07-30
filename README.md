@@ -1,16 +1,55 @@
-## Hi there 👋
+# Hi, I'm Mayanglambam Thoungamba Meitei 👋
 
-<!--
-**thoucodes/thoucodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+💻 Developer | DSA Learner | Full Stack Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy building projects, solving problems, and learning new technologies.
+
+---
+
+## 🚀 Tech Stack
+
+### Languages
+- C++
+- JavaScript
+
+### Backend
+- Node.js
+- Express.js
+- REST APIs
+
+### Tools
+- Git & GitHub
+- VS Code
+
+---
+
+## 🧠 Currently Learning
+
+- Data Structures & Algorithms
+- Backend Development
+- System Design
+- Database Management
+
+---
+
+## 📌 Featured Projects
+
+🔹 Financial Manager  
+A full-stack application for managing finances.
+
+🔹 DSA Practice  
+Solutions and patterns implemented in C++.
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thoucodes&show_icons=true)
+
+---
+
+## 📫 Connect With Me
+
+GitHub: @thoucodes
+email: thou2578@gmail.com
