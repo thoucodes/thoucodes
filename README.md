@@ -51,5 +51,5 @@ Solutions and patterns implemented in C++.
 
 ## 📫 Connect With Me
 
-GitHub: @thoucodes
-email: thou2578@gmail.com
+- GitHub: @thoucodes
+- Email: thou2578@gmail.com
